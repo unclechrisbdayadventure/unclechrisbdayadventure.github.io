@@ -2,3 +2,4 @@ UCBA.zip filter=lfs diff=lfs merge=lfs -text
 UCBA/Uncle[[:space:]]Chris's[[:space:]]BDAY[[:space:]]Adventure[[:space:]]by[[:space:]]Andrew[[:space:]]Vuong_Data/sharedassets8.assets.resS filter=lfs diff=lfs merge=lfs -text
 UCDA.zip filter=lfs diff=lfs merge=lfs -text
 UCBAMac.app filter=lfs diff=lfs merge=lfs -text
+UCBAMac.app.zip filter=lfs diff=lfs merge=lfs -text
